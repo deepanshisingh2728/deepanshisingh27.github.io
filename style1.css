@@ -216,7 +216,7 @@ nav a.active{
 
     @keyframes words{
         0%,20%{
-            content:"I'm student of BCA";
+            content:"student of BCA";
         }
         21%, 40%{
             content: "Frontened developer";
@@ -255,5 +255,6 @@ nav a.active{
 
      }
     
+
 
 
